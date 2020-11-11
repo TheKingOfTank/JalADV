@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\Hackaton\Hackaton.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/D:/veloc/Documentos/Hackaton]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/D:/veloc/Documentos/Hackaton]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\JalADV - Registro empresas.html"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\JalADV.html"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\Aliados.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.10">
+  <errfile name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\response.css">
+   <error val="22557;0;22568;0;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\response-fonts.css">
+   <error val="2;2;50;2;2502;1;"/>
+   <error val="2;3;73;7;2502;1;"/>
+   <error val="2;26;14;26;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\1366.css">
+   <error val="804;0;811;0;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\index.html">
+   <error val="162;153;181;153;2002;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Mildred\Moderador - Perfil.html">
+   <error val="7;34;19;34;2501;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Mildred\Moderador - Buscador.html">
+   <error val="7;34;19;34;2501;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Mildred\JalADV - Registro empresas.html">
+   <error val="7;35;19;35;2501;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Mildred\JalADV - Blog de opiniones.html">
+   <error val="7;34;19;34;2501;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Mildred\Aspirante - Perfil.html">
+   <error val="7;35;19;35;2501;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales.html">
+   <error val="3;116;17;116;2001;1;"/>
+   <error val="1;35;6;35;2501;1;"/>
+   <error val="3;65;9;65;2502;1;"/>
+   <error val="11;65;15;65;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\Hackaton\Aspirante.Vacantes.html">
+   <error val="268;66;302;66;2002;1;"/>
+   <error val="86;68;120;68;2002;1;"/>
+   <error val="87;119;119;119;2002;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\response.js">
+   <todo name="todos los inputs de las preguntas que son origen de filtro." pos="25;180"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\response.js" crc="1604994281417"/>
+  <file name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\response.css" crc="1604994281357"/>
+  <file name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\response-fonts.css" crc="1604994281349"/>
+  <file name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\jquery.js" crc="1604994281426"/>
+  <file name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales Archivos\1366.css" crc="1604994281359"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\js\jquery.min.js" crc="1604990258415"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\fonts\ionicons.min.css" crc="1604990258418"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\css\styles.css" crc="1604990258409"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\css\Navigation-Clean.css" crc="1604990258407"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\css\Header-Blue.css" crc="1604990258406"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\css\Footer-Dark.css" crc="1604990258405"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\css\Footer-Clean.css" crc="1604990258403"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\css\Footer-Basic.css" crc="1604990258402"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\bootstrap\js\bootstrap.min.js" crc="1604990258416"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\assets\bootstrap\css\bootstrap.min.css" crc="1604990258413"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\Vacantes-List.html" crc="1605074830475"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Vacantes-List\Vacantes-List Aspirantes.html" crc="1605074823851"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\js\jquery.min.js" crc="1604990108913"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\fonts\ionicons.min.css" crc="1604990108916"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\styles.css" crc="1604990108907"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Registration-Form-with-Photo.css" crc="1604990108906"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Newsletter-Subscription-Form.css" crc="1604990108905"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Navigation-Clean.css" crc="1604990108904"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Login-Form-Dark.css" crc="1604990108902"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Login-Form-Clean.css" crc="1604990108901"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Header-Blue.css" crc="1604990108900"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Footer-Dark.css" crc="1604990108898"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Footer-Clean.css" crc="1604990108897"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Footer-Basic.css" crc="1604990108895"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Contact-Form-Clean.css" crc="1604990108894"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Article-List.css" crc="1604990108892"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Article-Dual-Column.css" crc="1604990108891"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\css\Article-Clean.css" crc="1604990108890"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\bootstrap\js\bootstrap.min.js" crc="1604990108915"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\assets\bootstrap\css\bootstrap.min.css" crc="1604990108911"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Registro-Aliado\JalADV.html" crc="1605077402512"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\js\Simple-Slider.js" crc="1604990135004"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\js\jquery.min.js" crc="1604990135010"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\fonts\ionicons.min.css" crc="1604990135029"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\fonts\font-awesome.min.css" crc="1604990135013"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Team-Grid.css" crc="1604990135003"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Team-Boxed.css" crc="1604990135002"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\styles.css" crc="1604990135001"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Simple-Slider.css" crc="1604990135000"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Navigation-with-Search.css" crc="1604990134999"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Navigation-with-Button.css" crc="1604990134997"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Navigation-Clean.css" crc="1604990134994"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Navigation-Clean-1.css" crc="1604990134996"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Lightbox-Gallery.css" crc="1604990134992"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Highlight-Phone.css" crc="1604990134991"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Highlight-Clean.css" crc="1604990134990"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Header-Dark.css" crc="1604990134989"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Header-Blue.css" crc="1604990134988"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Footer-Dark.css" crc="1604990134987"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Footer-Clean.css" crc="1604990134986"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Features-Clean.css" crc="1604990134984"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Features-Boxed.css" crc="1604990134982"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Features-Boxed-1.css" crc="1604990134983"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Features-Blue.css" crc="1604990134981"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\css\Contact-Form-Clean.css" crc="1604990134980"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\bootstrap\js\bootstrap.min.js" crc="1604990135011"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\assets\bootstrap\css\bootstrap.min.css" crc="1604990135009"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\Perfil-Empresas.html" crc="1605074369387"/>
+  <file name="C:\xampp\htdocs\Hackaton\Paty\Aliados\Aliados.html" crc="1605077112619"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\js\jquery.min.js" crc="1604990845374"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\js\Contact-FormModal-Contact-Form-with-Google-Map.js" crc="1604990845369"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\fonts\ionicons.min.css" crc="1604990845392"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\fonts\font-awesome.min.css" crc="1604990845377"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\css\Team-Boxed.css" crc="1604990845367"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\css\styles.css" crc="1604990845365"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\css\Navigation-Clean.css" crc="1604990845364"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\css\Highlight-Clean.css" crc="1604990845362"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\css\Header-Blue.css" crc="1604990845360"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\css\Footer-Dark.css" crc="1604990845359"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\css\Contact-FormModal-Contact-Form-with-Google-Map.css" crc="1604990845357"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\css\Contact-Form-Clean.css" crc="1604990845356"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\bootstrap\js\bootstrap.min.js" crc="1604990845375"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\assets\bootstrap\css\bootstrap.min.css" crc="1604990845372"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Vacantes\index.html" crc="1605074363387"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\js\jquery.min.js" crc="1604990773292"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\fonts\ionicons.min.css" crc="1604990773294"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\css\Testimonials.css" crc="1604990773288"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\css\styles.css" crc="1604990773287"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\css\Navigation-Clean.css" crc="1604990773287"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\css\Header-Blue.css" crc="1604990773286"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\css\Footer-Dark.css" crc="1604990773285"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\bootstrap\js\bootstrap.min.js" crc="1604990773293"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\assets\bootstrap\css\bootstrap.min.css" crc="1604990773291"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Reportes\Reportes.html" crc="1605074643236"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\js\jquery.min.js" crc="1604990810715"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\fonts\ionicons.min.css" crc="1604990810733"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\fonts\font-awesome.min.css" crc="1604990810718"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\css\styles.css" crc="1604990810709"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\css\Navigation-Clean.css" crc="1604990810708"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\css\Header-Blue.css" crc="1604990810707"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\css\Footer-Dark.css" crc="1604990810706"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\css\Contact-Form-Clean.css" crc="1605025735145"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\css\Bootstrap-Chat.css" crc="1605025731937"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\css\Article-List.css" crc="1604990810702"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\bootstrap\js\bootstrap.min.js" crc="1604990810717"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\assets\bootstrap\css\bootstrap.min.css" crc="1604990810713"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Grupos\Grupos.html" crc="1605074636075"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\js\jquery.min.js" crc="1604990795845"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\fonts\ionicons.min.css" crc="1604990795869"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\fonts\font-awesome.min.css" crc="1604990795851"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\css\Team-Boxed.css" crc="1604990795840"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\css\styles.css" crc="1604990795838"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\css\Projects-Horizontal.css" crc="1604990795837"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\css\Newsletter-Subscription-Form.css" crc="1604990795836"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\css\Navigation-Clean.css" crc="1604990795834"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\css\Header-Blue.css" crc="1604990795833"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\css\Footer-Dark.css" crc="1604990795831"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\bootstrap\js\bootstrap.min.js" crc="1604990795849"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\assets\bootstrap\css\bootstrap.min.css" crc="1604990795844"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Buscador\Buscador.html" crc="1605074630251"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\js\jquery.min.js" crc="1604990760688"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\fonts\ionicons.min.css" crc="1604990760713"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\css\Team-Grid.css" crc="1604990760684"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\css\Team-Boxed.css" crc="1604990760683"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\css\styles.css" crc="1604990760681"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\css\Navigation-Clean.css" crc="1604990760680"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\css\Header-Blue.css" crc="1604990760679"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\css\Footer-Dark.css" crc="1604990760677"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\css\Contact-Form-Clean.css" crc="1604990760676"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\bootstrap\js\bootstrap.min.js" crc="1604990760711"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\assets\bootstrap\css\bootstrap.min.css" crc="1604990760687"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\Blog de Opiniones\Blog de opiniones.html" crc="1605076675611"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mitzi\vc.html" crc="1605026517898"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\js\jquery.min.js" crc="1604992757000"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\fonts\ionicons.min.css" crc="1604990773294"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\fonts\font-awesome.min.css" crc="1604992757003"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Team-Grid.css" crc="1604992756990"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Team-Boxed.css" crc="1604992756989"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\styles.css" crc="1604992756988"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Social-Icons.css" crc="1604992756986"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Projects-Horizontal.css" crc="1604992756985"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Newsletter-Subscription-Form.css" crc="1604992756984"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Navigation-with-Search.css" crc="1604992756983"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\idk.css" crc="1604992756982"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\H-Home.css" crc="1604992756981"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\H-Empresa.css" crc="1604992756980"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\H-Aspirantes.css" crc="1604992756978"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Footer-Dark.css" crc="1604990773285"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Features-Boxed.css" crc="1604992756977"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Contact-Form-Clean.css" crc="1604992756976"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Brands.css" crc="1604992756975"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\css\Article-Clean.css" crc="1604992756973"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\bootstrap\js\bootstrap.min.js" crc="1604992757002"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\assets\bootstrap\css\bootstrap.min.css" crc="1604992756999"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\Moderador - Perfil.html" crc="1605074511021"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\Moderador - Buscador.html" crc="1605074500915"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\JalADV - Registro empresas.html" crc="1605076898172"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\JalADV - Blog de opiniones.html" crc="1605074484764"/>
+  <file name="C:\xampp\htdocs\Hackaton\Mildred\Aspirante - Perfil.html" crc="1605076628691"/>
+  <file name="C:\xampp\htdocs\Hackaton\BD\RegistraUsu.php" crc="1605033988173"/>
+  <file name="C:\xampp\htdocs\Hackaton\BD\conectar.php" crc="1605030942590"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\js\jquery.min.js" crc="1604988502290"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\js\Data-Table-with-Search-Sort-Filter-and-Zoom-using-TableSorter.js" crc="1604988502276"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\js\Contact-FormModal-Contact-Form-with-Google-Map.js" crc="1604988900259"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\fonts\simple-line-icons.min.css" crc="1604988502373"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\fonts\material-icons.min.css" crc="1604988502363"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\fonts\ionicons.min.css" crc="1604988502352"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\fonts\fontawesome5-overrides.min.css" crc="1604988502382"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\fonts\fontawesome-all.min.css" crc="1604988502294"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\fonts\font-awesome.min.css" crc="1604988502336"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Testimonials.css" crc="1604988896495"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Team-Grid.css" crc="1604988502274"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Team-Boxed.css" crc="1604988502273"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\styles.css" crc="1604988502271"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Projects-Horizontal.css" crc="1604988891495"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Newsletter-Subscription-Form.css" crc="1604988891494"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Navigation-with-Search.css" crc="1604988502270"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Navigation-Clean.css" crc="1604988502269"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Login-Form-Clean.css" crc="1604988502267"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Highlight-Phone.css" crc="1604988502266"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Highlight-Clean.css" crc="1604988502264"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Header-Dark.css" crc="1604988502263"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Header-Blue.css" crc="1604988502261"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Footer-Dark.css" crc="1604988502259"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Footer-Clean.css" crc="1604988502257"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Features-Clean.css" crc="1604988502255"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Features-Boxed.css" crc="1604988502252"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Features-Boxed-1.css" crc="1604988502254"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Data-Table-with-Search-Sort-Filter-and-Zoom-using-TableSorter.css" crc="1604988502250"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Contact-FormModal-Contact-Form-with-Google-Map.css" crc="1604988900251"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Contact-Form-Clean.css" crc="1604988502248"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Bootstrap-Chat.css" crc="1604988887394"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\css\Article-List.css" crc="1604988887393"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\bootstrap\js\bootstrap.min.js" crc="1604988502292"/>
+  <file name="C:\xampp\htdocs\Hackaton\assets\bootstrap\css\bootstrap.min.css" crc="1604988502290"/>
+  <file name="C:\xampp\htdocs\Hackaton\Test de Competencias Empresariales.html" crc="1605074588684"/>
+  <file name="C:\xampp\htdocs\Hackaton\Perfil-Aliados.html" crc="1605074402563"/>
+  <file name="C:\xampp\htdocs\Hackaton\IniciarSesion.html" crc="1605074222531"/>
+  <file name="C:\xampp\htdocs\Hackaton\Home.html" crc="1605072249644"/>
+  <file name="C:\xampp\htdocs\Hackaton\Aspirante.Vacantes.html" crc="1605076713804"/>
+  <file name="C:\xampp\htdocs\Hackaton\Aspirante-Registro.html" crc="1605072445268"/>
+ </filescache>
+</project>

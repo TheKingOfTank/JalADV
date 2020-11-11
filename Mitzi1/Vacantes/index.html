@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>JalADV-10</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Contact-FormModal-Contact-Form-with-Google-Map.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/Header-Blue.css">
+    <link rel="stylesheet" href="assets/css/Highlight-Clean.css">
+    <link rel="stylesheet" href="assets/css/Navigation-Clean.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/Team-Boxed.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md navigation-clean" style="color: #ffc61e;background-color: #002649;">
+        <div class="container"><a class="navbar-brand text-warning" href="">JalADV | Empresa</a><button data-toggle="collapse" class="navbar-toggler text-info" data-target="#navcol-1" style="color: #02283a;background-color: #ffc61e;"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div
+                class="collapse navbar-collapse" id="navcol-1">
+                <ul class="nav navbar-nav ml-auto">
+                    <li class="nav-item" role="presentation"><a class="nav-link" style="color: #ffffff;" href="..\Vacantes\index.html">Vacantes</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="..\Grupos\Grupos.html" style="color: #d9d9d9;">Grupos</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="..\..\Perfil-Aliados.html" style="color: #dddddd;">Perfil</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" style="color: #dddddd;" href="..\..\IniciarSesion.html">Salir</a></li>
+                </ul>
+        </div>
+        </div>
+    </nav>
+    <div class="team-boxed">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center">VACANTES</h2>
+                <p class="text-center">Publique los puestos que solicita, espere solicitudes y acepte los aspirantes de acuerdo a sus necesidades.</p>
+            </div>
+        </div>
+    </div>
+    <div class="highlight-clean">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center"></h2>
+            </div>
+            <div class="buttons"><a class="btn btn-primary" role="button" href="#">Abrir vacante</a><button class="btn btn-light" type="button">revisar solicitudes</button></div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="modal fade" role="dialog" tabindex="-1" id="modal1">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4>Contact Information</h4><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button></div>
+                    <div class="modal-body">
+                        <form id="contactForm" action="javascript:void();" method="get"><input class="form-control" type="hidden" name="Introduction" value="This email was sent from www.mywebsite.com"><input class="form-control" type="hidden" name="subject" value="My Contact Form"><input class="form-control" type="hidden"
+                                name="to" value="email@mywebsite.com">
+                            <div class="form-row">
+                                <div class="col-md-6">
+                                    <div id="modal-successfail"></div>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="col-md-6" id="modal-message">
+                                    <fieldset>
+                                        <legend><i class="fa fa-envelope"></i> Contact Us</legend>
+                                    </fieldset>
+                                    <div class="form-group has-feedback"><label for="modal_from_name">Name</label><input class="form-control" type="text" id="modal_from_name" tabindex="-1" name="from_name" required="" placeholder="Full Name"></div>
+                                    <div class="form-group has-feedback"><label for="modal_from_email">Email</label><input class="form-control" type="email" id="modal_from_email" name="from_email" required="" placeholder="Email Address"></div>
+                                    <div class="form-row">
+                                        <div class="col-sm-6">
+                                            <div class="form-group has-feedback"><label for="modal_from_phone">Phone</label><input class="form-control" type="text" id="modal_from_phone" name="from_phone" placeholder="Primary Phone"></div>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <div class="form-group"><label for="modal_calltime">Best Time to Call</label><select class="form-control" id="modal_calltime" name="Call Time"><optgroup label="This is a group"><option value="12" selected="">This is item 1</option><option value="13">This is item 2</option><option value="14">This is item 3</option></optgroup></select></div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group"><label for="modal_comments">Comments</label><textarea class="form-control" id="modal_comments" name="Comments" placeholder="Enter comments here" rows="5"></textarea></div>
+                                    <div class="form-group"><button class="btn btn-primary btn-block" type="submit">Send <i class="fa fa-chevron-circle-right"></i></button></div>
+                                    <hr>
+                                </div>
+                                <div class="col-md-6">
+                                    <fieldset>
+                                        <legend> <i class="fa fa-location-arrow"></i> Locate Us</legend>
+                                    </fieldset>
+                                    <div class="form-row">
+                                        <div class="col-md-12">
+                                            <div class="static-map"><a href="https://www.google.com/maps/place/2+15th+St+NW+Washington+DC+20024" target="_blank"><img class="img-fluid" src="http://maps.googleapis.com/maps/api/staticmap?autoscale=2&amp;size=600x210&amp;maptype=roadmap&amp;format=png&amp;visual_refresh=true&amp;markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C582+1801+W+International+Speedway+Blvd+Daytona+Beach+FL+32114&amp;zoom=12" alt="Google Map of Washington Monument"></a></div>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <fieldset>
+                                                <legend><i class="fa fa-envelope"></i> Contact Us</legend>
+                                            </fieldset>
+                                            <div><span><strong>Name</strong></span></div>
+                                            <div><span>email@address.com</span></div>
+                                            <div><span>www.awebsite.com</span></div>
+                                            <hr>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <fieldset>
+                                                <legend><i class="fa fa-location-arrow"></i> Our Address</legend>
+                                            </fieldset>
+                                            <div><span><strong>Office Name</strong></span></div>
+                                            <div><span>55 Icannot Dr.</span></div>
+                                            <div><span>Daytona Beach, FL 81500</span></div>
+                                            <div><abbr data-toggle="tooltip" data-placement="top" title="Office Phone: 555-867-5309">O:</abbr> 555-867-5309</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h2 class="text-center">ABRIR VACANTE</h2>
+        <form id="contactForm" action="javascript:void();" method="get"><input class="form-control" type="hidden" name="Introduction" value="This email was sent from www.mywebsite.com"><input class="form-control" type="hidden" name="subject" value="My Contact Form"><input class="form-control" type="hidden" name="to"
+                value="email@mywebsite.com">
+            <div class="form-row">
+                <div class="col-md-6">
+                    <div id="successfail"></div>
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-md-6" id="message">
+                    <fieldset></fieldset>
+                    <div class="form-group has-feedback"><label for="from_name">Nombre vacante</label><input class="form-control" type="text"></div>
+                    <div class="form-group has-feedback"><label for="from_email">Responsabilidades</label><input class="form-control" type="text"></div>
+                    <div class="form-group"><label for="calltime">Requisitos</label><input class="form-control" type="text"></div>
+                    <div class="form-group has-feedback"><label for="from_phone">Dirección</label><input class="form-control" type="text"></div>
+                    <div class="form-row">
+                        <div class="col-sm-6">
+                            <div class="form-group"><label for="calltime">Jornada</label><input class="form-control" type="text"></div>
+                            <div class="form-group"><label for="calltime">Fecha de publicación</label><input class="form-control" type="text"></div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group"><label for="calltime">Salario</label><input class="form-control" type="text"></div>
+                            <div class="form-group"><label for="calltime">Tipo de contrato</label><input class="form-control" type="text"></div>
+                        </div>
+                    </div>
+                    <div class="form-group"><label for="comments">Descripción</label><textarea class="form-control" id="comments" name="Comments" placeholder="Enter comments here" rows="5"></textarea></div>
+                    <div class="form-group"><button class="btn btn-primary btn-block" type="submit">ABRIR VACANTE&nbsp;<i class="fa fa-chevron-circle-right"></i></button></div>
+                    <hr>
+                </div>
+                <div class="col-md-6">
+                    <fieldset>
+                        <legend> <i class="fa fa-location-arrow"></i> Ubicación</legend>
+                    </fieldset>
+                    <div class="form-row">
+                        <div class="col-md-12">
+                            <div class="static-map"><a href="https://www.google.com/maps/place/2+15th+St+NW+Washington+DC+20024" target="_blank"></a></div><iframe allowfullscreen="" frameborder="0" src="https://cdn.bootstrapstudio.io/placeholders/map.html" width="100%" height="400"></iframe></div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="team-boxed">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center">SOLICITUDES</h2>
+                <p class="text-center">Acepte o rechaze solicitudes de aspirantes. Agreguelos a grupos para realizar entrevistas grupales o individuales.&nbsp;</p>
+            </div>
+            <div class="row people">
+                <div class="col-md-6 col-lg-4 item">
+                    <div class="box"><img class="rounded-circle" src="assets/img/1.jpg">
+                        <h3 class="name">Ben Johnson</h3>
+                        <p class="title">desarrollador cobol</p>
+                        <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                        <div class="social">
+                            <div class="btn-group" role="group"><button class="btn btn-primary" type="button">Aceptar</button></div><a href="#"></a><a href="#"></a><button class="btn btn-primary" type="button">Rechazar</button><a href="#"></a></div>
+                    </div><button class="btn btn-primary" type="button">Agregar a un grupo</button></div>
+                <div class="col-md-6 col-lg-4 item">
+                    <div class="box"><img class="rounded-circle" src="assets/img/2.jpg">
+                        <h3 class="name">Emily Clark</h3>
+                        <p class="title">desarrollador java</p>
+                        <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                        <div class="social">
+                            <div class="btn-group" role="group"><button class="btn btn-primary" type="button">Aceptar</button></div><a href="#"></a><a href="#"></a><button class="btn btn-primary" type="button">Rechazar</button><a href="#"></a></div>
+                    </div><button class="btn btn-primary" type="button">Agregar a un grupo</button></div>
+                <div class="col-md-6 col-lg-4 item">
+                    <div class="box"><img class="rounded-circle" src="assets/img/3.jpg">
+                        <h3 class="name">Carl Kent</h3>
+                        <p class="title">desarrollador web</p>
+                        <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                        <div class="social">
+                            <div class="btn-group" role="group"><button class="btn btn-primary" type="button">Aceptar</button></div><a href="#"></a><a href="#"></a><button class="btn btn-primary" type="button">Rechazar</button><a href="#"></a></div>
+                    </div><button class="btn btn-primary" type="button">Agregar a un grupo</button></div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-dark">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="#">Web design</a></li>
+                            <li><a href="#">Development</a></li>
+                            <li><a href="#">Hosting</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>About</h3>
+                        <ul>
+                            <li><a href="#">Company</a></li>
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">Careers</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 item text">
+                        <h3>Company Name</h3>
+                        <p>Praesent sed lobortis mi. Suspendisse vel placerat ligula. Vivamus ac sem lacus. Ut vehicula rhoncus elementum. Etiam quis tristique lectus. Aliquam in arcu eget velit pulvinar dictum vel in justo.</p>
+                    </div>
+                    <div class="col item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+                </div>
+                <p class="copyright">JalADV © 2020</p>
+            </div>
+        </footer>
+    </div>
+    <h2 class="text-center" style="color: #1f2021;font-family: 'Source Sans Pro', sans-serif;font-size: 49px;"></h2>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/Contact-FormModal-Contact-Form-with-Google-Map.js"></script>
+</body>
+
+</html>
